@@ -1,6 +1,6 @@
 import sys, os, json, re
 
-__version__ = "0.0.2"
+__version__ = "0.0.3"
 
 def _enter(name):
 	try:
